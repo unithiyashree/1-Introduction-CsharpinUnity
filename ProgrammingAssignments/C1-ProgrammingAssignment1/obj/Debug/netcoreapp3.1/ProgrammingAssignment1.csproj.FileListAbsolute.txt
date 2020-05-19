@@ -1,0 +1,20 @@
+/Users/nithiya/Projects/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.csprojAssemblyReference.cache
+/Users/nithiya/Projects/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.AssemblyInfoInputs.cache
+/Users/nithiya/Projects/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.AssemblyInfo.cs
+/Users/nithiya/Projects/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.deps.json
+/Users/nithiya/Projects/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.runtimeconfig.json
+/Users/nithiya/Projects/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.runtimeconfig.dev.json
+/Users/nithiya/Projects/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.dll
+/Users/nithiya/Projects/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.pdb
+/Users/nithiya/Projects/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.dll
+/Users/nithiya/Projects/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.pdb
+/Users/nithiya/Documents/Online Courses/Introduction to C# in Unity/Programming Assignments/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.deps.json
+/Users/nithiya/Documents/Online Courses/Introduction to C# in Unity/Programming Assignments/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.runtimeconfig.json
+/Users/nithiya/Documents/Online Courses/Introduction to C# in Unity/Programming Assignments/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.runtimeconfig.dev.json
+/Users/nithiya/Documents/Online Courses/Introduction to C# in Unity/Programming Assignments/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.dll
+/Users/nithiya/Documents/Online Courses/Introduction to C# in Unity/Programming Assignments/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.pdb
+/Users/nithiya/Documents/Online Courses/Introduction to C# in Unity/Programming Assignments/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.csprojAssemblyReference.cache
+/Users/nithiya/Documents/Online Courses/Introduction to C# in Unity/Programming Assignments/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.AssemblyInfoInputs.cache
+/Users/nithiya/Documents/Online Courses/Introduction to C# in Unity/Programming Assignments/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.AssemblyInfo.cs
+/Users/nithiya/Documents/Online Courses/Introduction to C# in Unity/Programming Assignments/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.dll
+/Users/nithiya/Documents/Online Courses/Introduction to C# in Unity/Programming Assignments/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.pdb

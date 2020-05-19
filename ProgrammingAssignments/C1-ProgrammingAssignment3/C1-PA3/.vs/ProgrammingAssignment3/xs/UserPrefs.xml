@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{22534EA0-B2E1-A72A-FFBD-C27853959416}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/RockSpawner.cs">
+    <Files>
+      <File FileName="Assets/scripts/RockSpawner.cs" Line="14" Column="5" />
+      <File FileName="Assets/scripts/Rock.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ProgrammingAssignment3" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="21eeb978-e9c5-4837-801a-d99d344e6dca" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

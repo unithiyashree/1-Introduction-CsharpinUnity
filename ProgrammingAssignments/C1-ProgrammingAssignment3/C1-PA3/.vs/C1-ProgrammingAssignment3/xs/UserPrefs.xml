@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{D2E15F03-0647-A179-B54F-30F5BF0B80A6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Rock.cs">
+    <Files>
+      <File FileName="Assets/scripts/Rock.cs" Line="40" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="C1-ProgrammingAssignment3" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f38f44d3-8718-4b24-915a-21129458a6c6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
